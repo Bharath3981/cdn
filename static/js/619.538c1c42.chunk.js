@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkui=self.webpackChunkui||[]).push([[619],{619:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});var i=e(2791),t=e(184);var c=function(){return(0,i.useEffect)((function(){})),(0,t.jsx)("div",{children:"Admin"})}}}]);
+//# sourceMappingURL=619.538c1c42.chunk.js.map
